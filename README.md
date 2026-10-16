@@ -1,4 +1,5 @@
 # Project log: Projectile motion model
+![Trajectory graph](trajectory.png)
 
 ### 2026-10-06: Day 1
 -listed variables that affect a projectiles motion through the air.\
