@@ -49,5 +49,6 @@ plt.title('Projectile motion: drag vs no drag')
 plt.ylim(bottom=0)
 plt.legend()
 plt.grid(True)
-plt.savefig('trajectory.png', dpi=150, bbox_inches='tight')
+import os
+plt.savefig(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'trajectory.png'), dpi=150, bbox_inches='tight')
 plt.show()
