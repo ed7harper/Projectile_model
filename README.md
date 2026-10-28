@@ -22,11 +22,6 @@
 ### In progress
 - [ ] Compare the range of projectiles
 
-### Planned
-- [ ] Produce code modelling projectile motion with     diffrent method
-- [ ] plot new results with matplotlib
-- [ ] Compare the two methods to each other 
-
 ### Known issues
 - Crashes if the input file has blank rows
 
