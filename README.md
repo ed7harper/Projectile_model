@@ -4,8 +4,7 @@ A Python model of a projectile launched at an angle, comparing its path **with**
 
 The default object is a tennis ball launched at 30 m/s and 45°.
 
-<!-- Add a screenshot of your plot here, e.g. ![Trajectories](images/trajectory.png) -->
-
+![Trajectories](images/trajectory.png)
 ---
 
 ## Contents
