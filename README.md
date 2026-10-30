@@ -4,7 +4,7 @@ A Python model of a projectile launched at an angle, comparing its path **with**
 
 The default object is a tennis ball launched at 30 m/s and 45°.
 
-![trajectories](Github/Projectile_Model_Euler/trajectory.png)
+![trajectories](GitHub/Projectile_model_Euler/trajectory.png)
 ---
 
 ## Contents
